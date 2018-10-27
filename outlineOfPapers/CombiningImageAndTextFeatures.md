@@ -1,5 +1,6 @@
 # 标题、作者
 Combining Image and Text Features: A Hybrid Approach to Mobile Book Spine Recognition
+
 Sam S.Tsai, David Chen, Huizhong Chen……
 
 # 摘要

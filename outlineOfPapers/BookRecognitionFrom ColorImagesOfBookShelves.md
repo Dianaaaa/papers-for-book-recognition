@@ -1,5 +1,6 @@
 # 标题、作者
 Book Recognition from COLOR images of Book Shelves
+
 Yukari Akiyama, Minoru Ito
 
 # Introduction

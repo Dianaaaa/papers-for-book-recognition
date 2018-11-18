@@ -16,6 +16,11 @@
 使用ROI图像感兴趣区域分割图片，使用SIFT算法识别特征，使用K-means和SVN匹配图片
 
 相关度：:star::star:
+### [AUTOMATIC LIBRAY SHELF READING FROM BOOK-SPINE IMAGE RECOGNITION](https://github.com/Dianaaaa/Papers/blob/master/outlineOfPapers/AUTOMATIC%20LIBRARY%20SHELF%20READING%20FROM%20BOOK-SPINE%20IMAGE%20RECOGNITION.md)
+使用DoG(Defference of Guassian) 和兴趣区识别圆形彩色标签
+
+相关度： :star:
+
 ### [基于视频图像的点读机书籍识别算法：](https://github.com/Dianaaaa/Papers/blob/master/outlineOfPapers/%E5%9F%BA%E4%BA%8E%E8%A7%86%E9%A2%91%E5%9B%BE%E5%83%8F%E7%9A%84%E7%82%B9%E8%AF%BB%E6%9C%BA%E4%B9%A6%E6%9C%AC%E8%AF%86%E5%88%AB%E7%AE%97%E6%B3%95.md)
 主要适用于单本书籍的识别。使用最大连通域方法截取书籍区域，使用Harris角点算法提取特征。
 
